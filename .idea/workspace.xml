@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3a4baba-8e39-48f6-bd04-db4124f9f5ca" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaSenai.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula1/MEDIA3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula1/Soma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula1/porcentagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula1/subtracao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula2/Troco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula2/mediaaltura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula2/problemapiso.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula2/problemaquadro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/QuestaoH.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/conversor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/questaoC.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/questaoD.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/questaoE.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/questaoF.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/questaoG.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/aula3/questaob.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="32jY6ZfGUD51IXy1DDrj5QfibD6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/2DM/Documents/David-Lucas/javaSenai&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\2DM\Documents\David-Lucas\javaSenai\src\aula3" />
+      <recent name="C:\Users\2DM\Documents\David-Lucas\javaSenai\src\aula2" />
+      <recent name="C:\Users\2DM\Documents\David-Lucas\javaSenai\src\aula1" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3a4baba-8e39-48f6-bd04-db4124f9f5ca" name="Changes" comment="" />
+      <created>1757935274128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1757935274128</updated>
+    </task>
+    <servers />
+  </component>
+</project>
